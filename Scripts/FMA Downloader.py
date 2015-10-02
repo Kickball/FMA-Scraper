@@ -15,3 +15,6 @@ for file in files:
 			URLs = f.readlines()
         for URL in URLs:
             os.system('python -m wget -o %s %s' %(directory, URL))
+            with open(file, 'w') as f2:
+                f2.writelines(URLs[1:])
+                URLs.pop(0)
