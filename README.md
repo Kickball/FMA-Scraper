@@ -7,6 +7,7 @@ A collection of scripts to assist in scraping the FreeMusicArchive.
 2. Installation
 3. Usage
 4. Future Plans
+5. Credit
 
 ## Overview
 
@@ -41,3 +42,9 @@ Most of these modules come preinstalled with Python nowadays.
 Future Plans include:
 * Multithreaded downloads.
 * Multi-genre support.
+
+## Credit
+
+Thanks to the following parties:
+* [AndyR207](https://github.com/AndyR207) - for mulitple accounts of troubleshooting help.
+* [Requests](http://docs.python-requests.org/en/latest/) - for creating a great HTTP framework.
