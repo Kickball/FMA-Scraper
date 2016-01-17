@@ -47,4 +47,3 @@ Future Plans include:
 
 Thanks to the following parties:
 * [AndyR207](https://github.com/AndyR207) - for mulitple accounts of troubleshooting help.
-* [Requests](http://docs.python-requests.org/en/latest/) - for creating a great HTTP framework.
